@@ -1,5 +1,3 @@
-# VoiceBridge GitHub 首页 README 定稿版（可直接下载）
-
 # 🎤 VoiceBridge
 
 ### 不接管账号，不入侵隐私，只做安全轻量的 PC 全局语音中枢
